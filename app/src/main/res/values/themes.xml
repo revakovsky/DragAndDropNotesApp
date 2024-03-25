@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Base.Theme.DragDropNotesApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+    </style>
+
+    <style name="Theme.DragDropNotesApp" parent="Base.Theme.DragDropNotesApp" />
+
+</resources>
