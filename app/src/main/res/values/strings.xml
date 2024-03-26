@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Drag&amp;Drop Notes App</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="submit_note">Submit note</string>
+    <string name="save">Save</string>
+    <string name="add_a_note">Add a note</string>
+    <string name="a_bin">A bin</string>
+    <string name="please_provide_a_note_title_and_note_body">Please provide a note title and note body</string>
+    <string name="add_a_new_note">Add a new Note</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Are you sure you want to delete this note ?</string>
+    <string name="yes">Yes</string>
+    <string name="note_has_been_deleted">Note has been deleted</string>
+    <string name="error_deleting">Error deleting</string>
+    <string name="no">No</string>
 </resources>

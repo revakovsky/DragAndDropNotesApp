@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="notes_view_background">#FAF7F7</color>
+    <color name="notes_background">#F2EECB</color>
 </resources>
